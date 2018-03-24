@@ -19,5 +19,5 @@ function logWhisper(string) {
 logWhisper('you have toilet paper stuck to your shoe!')
 
 function sayHiToGrandma(string) {
-  
+  if string === 
 }
