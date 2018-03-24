@@ -11,4 +11,4 @@ whisper('hi there!')
 function logShout(string) {
   console.log(string.toUpperCase)
 }
-logshout('Bonjourno principesa!')
+logShout('Bonjourno principesa!')
