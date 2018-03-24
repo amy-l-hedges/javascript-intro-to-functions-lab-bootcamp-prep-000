@@ -17,3 +17,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase)
 }
 logWhisper('you have toilet paper stuck to your shoe!')
+
+function sayHiToGrandma(string) {
+  
+}
