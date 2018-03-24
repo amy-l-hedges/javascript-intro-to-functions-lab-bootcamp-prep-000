@@ -12,3 +12,8 @@ function logShout(string) {
   console.log(string.toUpperCase)
 }
 logShout('Bonjourno principesa!')
+
+function logWhisper(string) {
+  console.log(string.toLowerCase)
+}
+logWhisper('you have toilet paper stuck to your shoe!')
