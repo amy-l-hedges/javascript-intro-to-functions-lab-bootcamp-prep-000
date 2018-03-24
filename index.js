@@ -19,5 +19,7 @@ function logWhisper(string) {
 logWhisper('you have toilet paper stuck to your shoe!')
 
 function sayHiToGrandma(string) {
-  if string === 
+  if (string === string.toLowerCase()) {
+    return "I can't hear you"!";
+  } else if (string === string.toUpperCase())
 }
